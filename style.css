@@ -1,0 +1,22 @@
+div>p {
+
+    text-align:center;
+}
+
+div>header {
+
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+h1, h2 {
+
+    text-transform: uppercase;
+    color: aquamarine;
+
+}
+
+div, p {
+
+    text-align: center;
+}
